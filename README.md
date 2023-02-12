@@ -1,2 +1,19 @@
-# -vue
-移动端网易云(功能未完成,启动需要在根文件中打开网易/NeteaseCloudMusicApi-master,并在终端运行node app.js)
+# wyy-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
